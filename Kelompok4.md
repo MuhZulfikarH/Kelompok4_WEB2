@@ -37,7 +37,7 @@ Banyak masyarakat mengalami kesulitan dalam membeli obat secara langsung karena 
 - Melihat daftar pemesanan dan memverifikasi.
 - Memproses transaksi.
 - Mengakses laporan transaksi.
-- Memberi Komplain/Masukan.
+- Memberi Komplain/Masukan (Fitur Tambahan).
 
 ---
 
@@ -49,7 +49,7 @@ Banyak masyarakat mengalami kesulitan dalam membeli obat secara langsung karena 
 - Manajemen data obat oleh admin.
 - Proses verifikasi dan transaksi oleh admin.
 - Menampilkan laporan transaksi.
-- Komplain/Masukan.
+- Komplain/Masukan (Fitur Tambahan).
 
 ## 🚀 Non-Fungsional
 - Antarmuka ramah pengguna dan responsive.
