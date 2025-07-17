@@ -3,7 +3,7 @@
 **Kelompok 4 - Final Project**  
 **Anggota:**  
 1. Astrid Adelia -> 60200123041
-2. Muhammad Zulfikar Harul -> 60200123050
+2. Muhammad Zulfikar Hasrul -> 60200123050
 
 ---
 
